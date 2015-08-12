@@ -23,7 +23,9 @@ that you used to get to the answer.  For the scripts, please check them
 in to a public github repo with a codename that does not have
 Jana in the name.
 
-Access logs are provided in `elblogs.txt`.
+Access logs are provided in `elblogs.txt`. Download the repo from
+GitHub (do not fork the repo) and then create a new repo with your
+submission.
 
 1) How many callbacks did we receive for partner id `nyr8nx`.
 
