@@ -21,7 +21,7 @@ Questions
 For each problem, please provide an answer, and any scripts/commands
 that you used to get to the answer.  For the scripts, please check them
 in to a public github repo with a codename that does not have
-Jana in the name.
+Jana in the name. *Please do not fork the repo.*
 
 Access logs are provided in `elblogs.txt`. Download the repo from
 GitHub (do not fork the repo) and then create a new repo with your
